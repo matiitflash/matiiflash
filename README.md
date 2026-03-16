@@ -5,7 +5,7 @@
 ### 👨‍💻 Full Stack Developer - Ingeniero en informática
 
 <p align="center">
-  <a href="linkedin.com/in/matias-espinoza-barrera-02ab59253" target="_blank">
+  <a href="https://linkedin.com/in/matias-espinoza-barrera-02ab59253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
